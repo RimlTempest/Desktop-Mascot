@@ -1,0 +1,10 @@
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\bin\Debug\デスクトップマスコット.exe.config
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\bin\Debug\デスクトップマスコット.exe
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\bin\Debug\デスクトップマスコット.pdb
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\obj\Debug\デスクトップマスコット.csprojResolveAssemblyReference.cache
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\obj\Debug\デスクトップマスコット.Form1.resources
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\obj\Debug\デスクトップマスコット.Properties.Resources.resources
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\obj\Debug\デスクトップマスコット.csproj.GenerateResource.Cache
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\obj\Debug\デスクトップマスコット.exe
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\obj\Debug\デスクトップマスコット.pdb
+c:\users\nia\documents\visual studio 2017\Projects\デスクトップマスコット\デスクトップマスコット\obj\Debug\デスクトップマスコット.Form2.resources
